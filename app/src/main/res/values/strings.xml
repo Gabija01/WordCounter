@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">WordCounter</string>
+    <string name="app_name">Word Counter</string>
+    <string name="enter_text">Enter text here</string>
+    <string name="count">Count</string>
+    <string name="result">Result: 0</string>
+    <string-array name="count_options">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
 </resources>
